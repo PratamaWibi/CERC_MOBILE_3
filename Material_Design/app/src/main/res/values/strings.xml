@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CERC-MaterialDesign </string>
+    <string name="title_software">SOFTWARE </string>
+    <string name="support_software">Mempelajari tentang cara menulis dan merancang program dengan bahasa pemograman. Terdiri dari divisi Web dan Mobile. </string>
+    <string name="title_embedded">EMBEDDED </string>
+    <string name="support_embedded">Mempelajari tentang hal-hal yang berbau hardware. Seperti rangkaian elektronika, robotika, circuit, dan lain lain. </string>
+    <string name="title_jaringan">JARINGAN </string>
+    <string name="support_jaringan">Mempelajari tentang Networking dan juga Cyber Security. Biasanya berkecimpung dengan alamat IP, wireless, dan lain-lain. </string>
+    <string name="title_multimedia">MULTIMEDIA </string>
+    <string name="support_multimedia">Mempelajari tentang skill editing, baik itu fotografi maupun video. Serta tidak ketinggalan belajar mengenai UI dan UX juga. </string>
+</resources>
